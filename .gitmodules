@@ -3,7 +3,7 @@
 	url = https://github.com/iVariable/Backbone.actAs.Paginatable.git
 [submodule "Backbone.actAs.Mementoable"]
 	path = Backbone.actAs.Mementoable
-	url = https://github.com/iVariable/Backbone.actAs.Mementoable.git
+	url = git://github.com/iVariable/Backbone.actAs.Mementoable.git
 [submodule "Backbone.actAs.Locatable"]
 	path = Backbone.actAs.Locatable
 	url = https://github.com/iVariable/Backbone.actAs.Locatable.git
